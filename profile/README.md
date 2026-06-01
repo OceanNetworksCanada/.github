@@ -34,7 +34,7 @@ notebooks that make ONC data accessible to researchers, developers, and the publ
 Official client libraries for the Oceans 3.0 API — the fastest way to discover and
 download ONC data in your language of choice.
 
-- **[api-python-client](https://github.com/OceanNetworksCanada/api-python-client)** — Python (recommended, actively maintained)
+- **[api-python-client](https://github.com/OceanNetworksCanada/api-python-client)** — Python
 - **[api-matlab-client](https://github.com/OceanNetworksCanada/api-matlab-client)** — MATLAB
 
 ### Community Notebooks & Examples
