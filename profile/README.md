@@ -19,7 +19,6 @@ notebooks that make ONC data accessible to researchers, developers, and the publ
 |---|---|
 | Access ONC data in **Python** | [api-python-client](https://github.com/OceanNetworksCanada/api-python-client) · [Docs](https://oceannetworkscanada.github.io/api-python-client/) |
 | Access ONC data in **MATLAB** | [api-matlab-client](https://github.com/OceanNetworksCanada/api-matlab-client) |
-| Access ONC data in **R** | [api-r-client](https://github.com/OceanNetworksCanada/api-r-client) |
 | See example notebooks & workflows | [python-community-notebooks](https://github.com/OceanNetworksCanada/python-community-notebooks) |
 | Explore data visualization tools | [oncdw](https://github.com/OceanNetworksCanada/oncdw) · [Docs](https://oceannetworkscanada.github.io/oncdw/) |
 | Understand the full API | [Oceans3.0-API](https://github.com/OceanNetworksCanada/Oceans3.0-API) · [API Docs](https://oceannetworkscanada.github.io/Oceans3.0-API/) |
@@ -36,7 +35,6 @@ download ONC data in your language of choice.
 
 - **[api-python-client](https://github.com/OceanNetworksCanada/api-python-client)** — Python (recommended, actively maintained)
 - **[api-matlab-client](https://github.com/OceanNetworksCanada/api-matlab-client)** — MATLAB
-- **[api-r-client](https://github.com/OceanNetworksCanada/api-r-client)** — R
 
 ### Community Notebooks & Examples
 Ready-to-run Jupyter notebooks demonstrating real data workflows.
@@ -57,21 +55,12 @@ Specialized repositories for specific scientific domains and research projects.
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Each repository has its own `CONTRIBUTING.md` with specific
-guidelines. In general:
-
-1. Open an issue to discuss your idea before submitting a pull request
-2. Follow the coding style and linting rules for the relevant project
-3. All contributions to public repos should include tests where applicable
-
-Questions? Open a Discussion or file an issue in the relevant repository.
-
----
-
 ## 🔗 Links
 
-- 🌐 **Website:** [oceannetworks.ca](https://www.oceannetworks.ca)
-- 📊 **Data Portal:** [data.oceannetworks.ca](https://data.oceannetworks.ca)
-- 📖 **API Documentation:** [oceannetworkscanada.github.io/Oceans3.0-API](https://oceannetworkscanada.github.io/Oceans3.0-API/)
+- 🌊 Website: [https://www.oceannetworks.ca](https://www.oceannetworks.ca)  
+- 📡 Oceans 3.0 Data Portal: [https://data.oceannetworks.ca](https://data.oceannetworks.ca)  
+- ![small-filled-facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/facebook.svg) Facebook: [Ocean Networks Canada](https://facebook.com/OceanNetworksCanada)  
+- ![small-filled-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg) Instagram: [@ocean_networks](https://instagram.com/ocean_networks)  
+- ![small-filled-youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/youtube.svg) YouTube: [Ocean Networks Canada](https://youtube.com/oceannetworkscanada)  
+- ![small-filled-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/linkedin.svg) LinkedIn: [Ocean Networks Canada](https://linkedin.com/company/ocean-networks-canada)  
+- ![small-filled-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/twitter-x.svg) Twitter: [@ocean_networks](https://twitter.com/ocean_networks)
