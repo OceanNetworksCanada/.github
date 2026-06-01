@@ -22,8 +22,9 @@ notebooks that make ONC data accessible to researchers, developers, and the publ
 | See example notebooks & workflows | [python-community-notebooks](https://github.com/OceanNetworksCanada/python-community-notebooks) |
 | Explore data visualization tools | [oncdw](https://github.com/OceanNetworksCanada/oncdw) · [Docs](https://oceannetworkscanada.github.io/oncdw/) |
 | Understand the full API | [Oceans3.0-API](https://github.com/OceanNetworksCanada/Oceans3.0-API) · [API Docs](https://oceannetworkscanada.github.io/Oceans3.0-API/) |
+| Explore the OpenAPI - always up to date! | [Oceans 3.0 OpenAPI Page](https://data.oceannetworks.ca/OpenAPI)
 
-> 🔑 All API access requires a free **[Oceans 3.0 account and token](https://data.oceannetworks.ca/Registration)**.
+> 🔑 All API access requires a free **[Oceans 3.0 account and token](https://data.oceannetworks.ca/Profile)**.
 
 ---
 
@@ -58,7 +59,8 @@ Specialized repositories for specific scientific domains and research projects.
 ## 🔗 Links
 
 - 🌊 Website: [https://www.oceannetworks.ca](https://www.oceannetworks.ca)  
-- 📡 Oceans 3.0 Data Portal: [https://data.oceannetworks.ca](https://data.oceannetworks.ca)  
+- 📡 Oceans 3.0 Data Portal: [https://data.oceannetworks.ca](https://data.oceannetworks.ca)
+- 🛠️ Oceans 3.0 OpenAPI: [https://data.oceannetworks.ca/OpenAPI](https://data.oceannetworks.ca/OpenAPI)
 - ![small-filled-facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/facebook.svg) Facebook: [Ocean Networks Canada](https://facebook.com/OceanNetworksCanada)  
 - ![small-filled-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg) Instagram: [@ocean_networks](https://instagram.com/ocean_networks)  
 - ![small-filled-youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/youtube.svg) YouTube: [Ocean Networks Canada](https://youtube.com/oceannetworkscanada)  
