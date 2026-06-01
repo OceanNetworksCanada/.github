@@ -51,7 +51,6 @@ Ready-to-run Jupyter notebooks demonstrating real data workflows.
 Specialized repositories for specific scientific domains and research projects.
 
 - **[selfsupervision_anomalies_onc](https://github.com/OceanNetworksCanada/selfsupervision_anomalies_onc)** — ML-based anomaly detection for ocean data
-- **[maxi3d](https://github.com/OceanNetworksCanada/maxi3d)** — Earthquake detection, association, and location toolkit
 - **[Seismic-instrument-status](https://github.com/OceanNetworksCanada/Seismic-instrument-status)** — ONC seismic instrument status page
 
 ---
