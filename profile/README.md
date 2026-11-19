@@ -50,9 +50,9 @@ Repos coming soon.
 
 ## Help, citation and contact
 
-- **Support:** use the **Request Support** button in the [Oceans 3.0 Data Portal](https://data.oceannetworks.ca).
+- **Support:** use the **Request Support** button in the [Oceans 3.0 Data Portal](https://data.oceannetworks.ca), or email [info@oceannetworks.ca](mailto:info@oceannetworks.ca).
 - **Cite ONC data:** ONC's Data Policy requires a full citation for published work. See [Data Citations](https://wiki.oceannetworks.ca/display/DP/Data+Citations).
-- **Contribute:** [python-community-notebooks](https://github.com/OceanNetworksCanada/python-community-notebooks) is currently the only repo here that accepts outside contributions.
+- **Contribute:** Contributing guidelines coming soon. [python-community-notebooks](https://github.com/OceanNetworksCanada/python-community-notebooks) is currently the only repo here that accepts outside contributions.
 - **License:** [LICENSE TBD]
 - **Contact:** [info@oceannetworks.ca](mailto:info@oceannetworks.ca)
 
